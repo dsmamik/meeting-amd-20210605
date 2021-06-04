@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639686036726",
+    "project_id": "meeting-amd-20210605",
+    "storage_bucket": "meeting-amd-20210605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639686036726:android:5699422a485ee3813df0d7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639686036726-siot08d04rn89525jq4is0pcvuds8ob1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "5db9bea1a7d0de13db6ecc1354f67bfec0822745"
+          }
+        },
+        {
+          "client_id": "639686036726-7qjs7p8h8tusdgt81pp3nsvgo9edbdsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmL1qlQUX9WyShGG0E_ESQ-uwHRNtSQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639686036726-7qjs7p8h8tusdgt81pp3nsvgo9edbdsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
